@@ -1,63 +1,81 @@
-# Mokesh Nagpal - Aspiring Data Scientist 🚀
+# Mokesh Nagpal
 
-[![GitHub Followers](https://img.shields.io/github/followers/mokeshnagpal?label=Followers&style=flat-square)](https://github.com/mokeshnagpal)  [![Profile Views](https://komarev.com/ghpvc/?username=mokeshnagpal&style=flat-square)](https://github.com/mokeshnagpal)
-
-## Professional Summary
-
-As an **Aspiring Data Scientist**, I blend strong coding abilities with a passion for continuous learning. Data science is an interdisciplinary field focused on extracting knowledge from large data sets and applying it to solve real-world problems. I have a solid academic foundation (MCA and BCA) and a proven ability to tackle challenges—reflected in my accomplishments—while communicating complex ideas clearly and leading teams effectively.
-
-## 📊 GitHub Stats & Visualizations
-
-![Mokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokeshnagpal&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokeshnagpal&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mokeshnagpal&theme=radical)
-
-## 🚀 Featured Projects
-
-- 🌱 **Moisture Detection & Prediction** (Sep '24): Developed an ML-driven Flask web app for predicting soil moisture and NPK levels from sensor inputs, delivering real-time forecasts and visualizations. *Tools:* Python, Flask, IoT sensors.
-- ⚙️ **Hard-Coded MLP** (Aug '24): Implemented a multi-layer perceptron neural network from scratch in Python to demonstrate foundational machine learning principles. *Tools:* Python, NumPy.
-- 🌍 **Energy Consumption Analysis** (Apr '24): Conducted data preprocessing and regression forecasting on global energy indicators, and used statistical tools to explore long-term trends. *Tools:* R.
-- 🛒 **E-commerce Website** (Dec '22): Created a full-stack PHP/MySQL e-commerce platform for a college project, complete with user management and payment features. *Tools:* PHP, MySQL, HTML5, CSS3, JavaScript.
-
-## 📚 Research & Patents
-
-- 🛏️ **Smart Pillow** (Dec '23; Pat. No. 202311080891): IoT/ML-enhanced pillow that automatically adjusts its firmness based on the user’s posture to improve sleep ergonomics.
-- 📦 **Smart Container** (Mar '23; Pat. No. 202311020732A): IoT-based solution for automatic volumetric measurement of granular materials, enabling precise monitoring in industrial settings.
-- 🏠 **Smart Room** (Mar '23; Pat. No. 202311042366A): IoT energy-saving system that uses human presence detection to control lighting and HVAC, minimizing unnecessary energy usage.
-
-## 💡 Skills & Tools
-
-- **Programming Languages:** Python, R, C/C++, MicroPython, PHP, SQL, JavaScript  
-- **Web & Frameworks:** Flask, Tkinter, HTML5, CSS3, MySQL, Firebase  
-- **Data Science:** Machine Learning, Deep Learning, Tableau, Data Visualization, Data Structures & Algorithms  
-- **Soft Skills:** Public Speaking, Leadership, Teamwork, Problem Solving, Critical Thinking
-
-## 🎓 Certifications & Achievements
-
-- **Data Analysis with Python** (IBM) – Dec '24  
-- **Hands-on Machine Learning with Python** (LPU) – Dec '23  
-- **Data Structures** (GeeksforGeeks) – Sep '23  
-- **Data Visualization with Tableau** (LPU) – Aug '23  
-- 🏆 Winner, Data Science Hackathon (DSS, BIT Mesra; Sep '24) – 24-hour competition  
-- 🥇 1st Place, "War of Words" Debate (LPU; Sep '23)
-
-## 🔗 Links
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mokeshnagpal)  
-- 💻 [Portfolio](https://mokesh-nagpal-portfolio.onrender.com/)
-
-## 🤝 Contribute
-
-Contributions are welcome! Feel free to:
-
-- ⭐️ **Star** this repository if you find the projects interesting.  
-- 🍴 **Fork** the repository to suggest changes or improvements.  
-- 🐛 **Submit** an issue or pull request for bugs or new ideas.  
-- 💬 **Share** your feedback and suggestions.
+*Aspiring Data Scientist | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*:contentReference[oaicite:0]{index=0}
 
 ---
 
-📫 **Email:** [nagpalmokesh@gmail.com](mailto:nagpalmokesh@gmail.com)  
-📍 **Location:** Howrah, West Bengal, India  
+## 📊 GitHub Stats and Trophies
+<!-- Embedding dynamic GitHub profile widgets using Readme Stats and Actions:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2} -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mokeshnagpal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokeshnagpal&theme=dark" alt="Contribution Streak" />
+  <img src="https://raw.githubusercontent.com/mokeshnagpal/mokeshnagpal/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mokeshnagpal&theme=flat&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🧑‍💼 Professional Summary
+- **Aspiring Data Scientist:** Graduating student with strong academic background and problem-solving skills (Placement Coordinator at BIT-M):contentReference[oaicite:3]{index=3}.  
+- **Technical Skills:** Proficient in Python and R for data analysis, Flask for web applications, and SQL (MySQL) for databases. Familiar with data visualization tools (Tableau) and core programming (C/C++, algorithms):contentReference[oaicite:4]{index=4}.  
+- **Passions:** Keen interest in machine learning and deep learning; eager to apply analytical skills to real-world problems.  
+
+---
+
+## 🚀 Skills & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)
+[![GitHub Followers](https://img.shields.io/github/followers/mokeshnagpal?label=Followers&style=for-the-badge)](https://github.com/mokeshnagpal)
+
+<details>
+<summary>More Tools & Libraries</summary>
+- **Libraries/Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow/Keras  
+- **Other Tools:** Git & GitHub, Docker, Linux, Jupyter Notebooks  
+- **Data Viz:** Tableau (Proficient), Matplotlib/Seaborn  
+</details>
+
+---
+
+## 💼 Featured Projects
+- **Adaptive Traffic Management System:** Developed a deep learning solution using image processing to optimize traffic light timings and reduce congestion.  
+- **Moisture Detection & Prediction System:** Built a Flask-based web dashboard and mobile app for real-time soil moisture sensing and forecasting.  
+- **Climate Change Data Analysis:** Performed data cleaning and regression modeling on climate datasets; forecasted key indicators using ARIMA.  
+- **Death & War Visualization:** Preprocessed public datasets to create interactive dashboards in Tableau and R, illustrating trends in mortality and conflicts.  
+- **E-Commerce Web Application:** Designed and implemented a revenue-generating online store using HTML, CSS, JavaScript, PHP, and MySQL.
+
+---
+
+## 🔬 Research & Patents
+- *No research publications or patents yet.* 
+
+---
+
+## 🏆 Certifications & Achievements
+- Kaggle **Novice Knight** (Data Science badge)  
+- Solved 200+ problems on LeetCode (Algorithms & Data Structures challenges)  
+- [Coursera](https://www.coursera.org/) – Data Science and Machine Learning course certificates  
+
+---
+
+## ✉️ Contact Info & Links
+- **LinkedIn:** [linkedin.com/in/mokeshnagpal](https://www.linkedin.com/in/mokeshnagpal/)  
+- **GitHub:** [github.com/mokeshnagpal](https://github.com/mokeshnagpal)  
+- **Kaggle:** [kaggle.com/mokeshnagpal](https://www.kaggle.com/mokeshnagpal)  
+- **LeetCode:** [leetcode.com/mokeshnagpal](https://leetcode.com/mokeshnagpal)  
+- **Email:** *mokeshnagpal at example dot com* (replace with actual email)
+
+---
+
+## 🤝 Contributing Guidelines
+Thank you for your interest in contributing! Please follow these steps:  
+1. **Fork** the repository and create a new branch for your feature or bugfix.  
+2. **Commit** changes in small, focused increments with clear messages.  
+3. **Open a Pull Request** describing your work. We welcome discussions and will review PRs promptly.  
+
+*GitHub Actions are set to automatically update the stats and visitor counter daily:contentReference[oaicite:5]{index=5}. Feel free to open issues or PRs to improve the README or projects.*
+
+---
