@@ -1,6 +1,6 @@
 # Mokesh Nagpal - Aspiring Data Scientist 🚀
 
-[![GitHub Followers](https://img.shields.io/github/followers/mokeshnagpal?label=Followers&style=flat-square)](https://github.com/mokeshnagpal) [![GitHub Public Repos](https://img.shields.io/github/repos/mokeshnagpal?label=Repos&style=flat-square)](https://github.com/mokeshnagpal)
+[![GitHub Followers](https://img.shields.io/github/followers/mokeshnagpal?label=Followers&style=flat-square)](https://github.com/mokeshnagpal)
 
 ## Professional Summary
 
