@@ -10,7 +10,7 @@ As an **Aspiring Data Scientist**, I blend strong coding abilities with a passio
 
 - 🌱 **Moisture Detection & Prediction** (Sep '24): Developed an ML-driven Flask web app for predicting soil moisture and NPK levels from sensor inputs, delivering real-time forecasts and visualizations. *Tools:* Python, Flask (a lightweight web framework:contentReference[oaicite:1]{index=1}), IoT sensors.
 - ⚙️ **Hard-Coded MLP** (Aug '24): Implemented a multi-layer perceptron neural network from scratch in Python to demonstrate foundational machine learning principles. *Tools:* Python, NumPy (an MLP is a type of neural network used for regression and classification:contentReference[oaicite:2]{index=2}).
-- 🌍 **Climate Change Analysis** (Apr '24): Conducted data preprocessing and ARIMA forecasting on global climate indicators, and used clustering to explore long-term trends. *Tools:* R, ARIMA, Tableau.
+- 🌍 **Energy Consumption Analysis** (Apr '24): Conducted data preprocessing and regression forecasting on global energy indicators, and used statstical tools to explore long-term trends. *Tools:* R.
 - 🛒 **E-commerce Website** (Dec '22): Created a full-stack PHP/MySQL e-commerce platform for a college project, complete with user management and payment features. *Tools:* PHP, MySQL, HTML5, CSS3, JavaScript.
 
 ## 📚 Research & Patents
