@@ -65,8 +65,8 @@
 - **LinkedIn:** [linkedin.com/in/mokeshnagpal](https://www.linkedin.com/in/mokeshnagpal/)  
 - **GitHub:** [github.com/mokeshnagpal](https://github.com/mokeshnagpal)  
 - **Kaggle:** [kaggle.com/mokeshnagpal](https://www.kaggle.com/mokeshnagpal)  
-- **LeetCode:** [leetcode.com/mokeshnagpal](https://leetcode.com/mokeshnagpal)  
-- **Email:** *mokeshnagpal at example dot com* (replace with actual email)
+- **LeetCode:** [leetcode.com/u/nagpalmokesh](https://leetcode.com/u/nagpalmokesh)  
+- **Email:** [nagpalmokesh@gmail.com](https://nagpalmokesh@gmail.com)  
 
 ---
 
