@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💼 Professional Summary
-- **Aspiring Data Scientist:** Graduating student with strong academic background and problem-solving skills (Placement Coordinator at BIT-M):contentReference[oaicite:3]{index=3}.  
+- **Incoming SDE Intern | Fastenal:** Graduating student with strong academic background and problem-solving skills (Placement Coordinator at BIT-M).  
 - **Technical Skills:** Proficient in Python and R for data analysis, Flask for web applications, and SQL (MySQL) for databases. Familiar with data visualization tools (Tableau) and core programming (C/C++, algorithms):contentReference[oaicite:4]{index=4}.  
 - **Passions:** Keen interest in machine learning and deep learning; eager to apply analytical skills to real-world problems.  
 
