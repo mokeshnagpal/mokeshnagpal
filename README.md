@@ -1,6 +1,6 @@
 # Mokesh Nagpal
 
-*Aspiring Data Scientist | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*:contentReference[oaicite:0]{index=0}
+*Incoming SDE Intern - Fastenal | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ## 🧑‍💼 Professional Summary
-- **Incoming SDE Intern | Fastenal:** Graduating student with strong academic background and problem-solving skills (Placement Coordinator at BIT-M).  
+- **Aspiring Data Scientist:** Graduating student with strong academic background and problem-solving skills (Placement Coordinator at BIT-M):contentReference[oaicite:3]{index=3}.  
 - **Technical Skills:** Proficient in Python and R for data analysis, Flask for web applications, and SQL (MySQL) for databases. Familiar with data visualization tools (Tableau) and core programming (C/C++, algorithms):contentReference[oaicite:4]{index=4}.  
 - **Passions:** Keen interest in machine learning and deep learning; eager to apply analytical skills to real-world problems.  
 
