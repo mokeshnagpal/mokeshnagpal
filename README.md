@@ -1,6 +1,6 @@
 # Mokesh Nagpal
 
-*Incoming SDE Intern-Fastenal | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*
+*SDE Intern-Fastenal India | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*
 
 ---
 
