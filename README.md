@@ -1,17 +1,11 @@
 # Mokesh Nagpal
 
-*SDE Intern-Fastenal India | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*
+*SDE Intern @ Fastenal | Gold Medalist – LPU | Placement Coordinator at BIT-M | Skilled in Machine Learning, Deep Learning, Python, R & SQL | Proficient in Data Visualization (Tableau) | Experienced in C/C++ & Algorithms*
 
 ---
 
 ## 📊 GitHub Stats and Trophies
 <!-- Embedding dynamic GitHub profile widgets using Readme Stats and Actions:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2} -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokeshnagpal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokeshnagpal&theme=dark" alt="Contribution Streak" />
-  <img src="https://raw.githubusercontent.com/mokeshnagpal/mokeshnagpal/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mokeshnagpal&theme=flat&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
